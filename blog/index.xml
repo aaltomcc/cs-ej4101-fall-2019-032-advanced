@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Erlich Bachman</title>
-    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/</link>
-    <description>Recent content on Erlich Bachman</description>
+    <title>Blogs on Erlich Bachman</title>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog/</link>
+    <description>Recent content in Blogs on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 20 Dec 2019 21:37:40 +0200</lastBuildDate>
     
-	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>cs-ej4101-fall-2019-032-advanced</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog1/</link>
-      <pubDate>Fri, 20 Dec 2019 21:37:40 +0200</pubDate>
-      
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog1/</guid>
-      <description>Liirum Laarum</description>
-    </item>
     
     <item>
       <title>Learned in cs-ej4101-fall-2019-032-advanced</title>
@@ -37,15 +28,6 @@
       <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog/bloga/</guid>
       <description>I learned about this course from a friend and they recommended to take it. I reaserched about it a little bit from oodi and decided to start this course as it seemed really intresting. My motivation for taking this course and wanting to learn about DevOps is coming from my intrest in software development and computer science in general.
 From the course I wanted to learn more about DevOps in practice and also really do somekind of project related to it.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/about/</link>
-      <pubDate>Fri, 20 Dec 2019 21:34:18 +0200</pubDate>
-      
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/about/</guid>
-      <description>My University journey started with electric engineering and while it is quite interesting once I was introduced to programming (altough it was C and I first flunked it) it really grasped me from the start. I realized that so much can be achieved via programming and that only your imagination is really the limit. The feeling of accomplishment when figuring out a unique solution to problem is quite extatic. And with coding comes the practises of coding: version control, efficient ways of development and deployment, testing the code and so on.</description>
     </item>
     
   </channel>
