@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Erlich Bachman</title>
-    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/</link>
-    <description>Recent content in Tags on Erlich Bachman</description>
+    <title>Tags on Harry Callahan</title>
+    <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/</link>
+    <description>Recent content in Tags on Harry Callahan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 20 Dec 2019 21:37:40 +0200</lastBuildDate>
     
-	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>course</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/course/</link>
+      <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/course/</link>
       <pubDate>Fri, 20 Dec 2019 21:37:40 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/course/</guid>
+      <guid>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/course/</guid>
       <description></description>
     </item>
     
     <item>
       <title>devops</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/devops/</link>
+      <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/devops/</link>
       <pubDate>Fri, 20 Dec 2019 21:37:40 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/devops/</guid>
+      <guid>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>info</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/info/</link>
+      <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/info/</link>
       <pubDate>Fri, 20 Dec 2019 21:37:40 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/info/</guid>
+      <guid>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/personal/</link>
+      <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/personal/</link>
       <pubDate>Fri, 20 Dec 2019 21:34:18 +0200</pubDate>
       
-      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/personal/</guid>
+      <guid>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/personal/</guid>
       <description></description>
     </item>
     
