@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Harry Callahan</title>
-    <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/categories/</link>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/categories/</link>
     <description>Recent content in Categories on Harry Callahan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 20 Dec 2019 21:37:40 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/cs-ej4101-fall-2019-032-advanced/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/categories/blog/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/categories/blog/</link>
       <pubDate>Fri, 20 Dec 2019 21:37:40 +0200</pubDate>
       
-      <guid>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/categories/blog/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/categories/about/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/categories/about/</link>
       <pubDate>Fri, 20 Dec 2019 21:34:18 +0200</pubDate>
       
-      <guid>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/categories/about/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/categories/about/</guid>
       <description></description>
     </item>
     

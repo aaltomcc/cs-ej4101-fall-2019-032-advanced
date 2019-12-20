@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Harry Callahan</title>
-    <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/blog/</link>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog/</link>
     <description>Recent content in Blogs on Harry Callahan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 20 Dec 2019 21:37:40 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/cs-ej4101-fall-2019-032-advanced/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learned in cs-ej4101-fall-2019-032-advanced</title>
-      <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/blog/blogb/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog/blogb/</link>
       <pubDate>Fri, 20 Dec 2019 21:37:40 +0200</pubDate>
       
-      <guid>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/blog/blogb/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog/blogb/</guid>
       <description>I learned quite a much in this course. The course touched on automating the software testing, deployment and delivery and much more and I was happy to learn specifically about those subjects. For me Agile methods and theory are quite familiar as I have read about them in some extent but all additional information about actual practicalities of software development are intresting to me. But I really learn the best when I am actually doing something and aside from theory this course gave a chance to do a small project.</description>
     </item>
     
     <item>
       <title>This course cs-ej4101-fall-2019-032-advanced</title>
-      <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/blog/bloga/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog/bloga/</link>
       <pubDate>Fri, 20 Dec 2019 21:37:40 +0200</pubDate>
       
-      <guid>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/blog/bloga/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/blog/bloga/</guid>
       <description>I learned about this course from a friend and they recommended to take it. I reaserched about it a little bit from oodi and decided to start this course as it seemed really intresting. My motivation for taking this course and wanting to learn about DevOps is coming from my intrest in software development and computer science in general.
 From the course I wanted to learn more about DevOps in practice and also really do somekind of project related to it.</description>
     </item>

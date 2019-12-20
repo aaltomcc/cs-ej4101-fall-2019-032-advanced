@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>personal on Harry Callahan</title>
-    <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/personal/</link>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/personal/</link>
     <description>Recent content in personal on Harry Callahan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 20 Dec 2019 21:34:18 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/cs-ej4101-fall-2019-032-advanced/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/about/</link>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/about/</link>
       <pubDate>Fri, 20 Dec 2019 21:34:18 +0200</pubDate>
       
-      <guid>http://localhost:1313/cs-ej4101-fall-2019-032-advanced/about/</guid>
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-032-advanced/about/</guid>
       <description>My University journey started with electric engineering and while it is quite interesting once I was introduced to programming (altough it was C and I first flunked it) it really grasped me from the start. I realized that so much can be achieved via programming and that only your imagination is really the limit. The feeling of accomplishment when figuring out a unique solution to problem is quite extatic. And with coding comes the practises of coding: version control, efficient ways of development and deployment, testing the code and so on.</description>
     </item>
     
